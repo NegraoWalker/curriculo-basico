@@ -1,2 +1,3 @@
 # curriculo-basico
-Currículo utilizando HTML e CSS
+Este projeto é um curriculo básico utilizando as linguagens HTML e CSS.
+
