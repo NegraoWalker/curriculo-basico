@@ -1,0 +1,103 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background-color: #dfdfdf;
+}
+
+.container-pai {
+    max-width: 900px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-top {
+    text-align: center;
+}
+
+
+.foto-perfil {
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #959595;
+}
+
+.subtitulo-top {
+    font-style: italic;
+    color: rgb(73 73 73);
+}
+
+.icones-redes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.icones-alterar {
+    width: 50px;
+    padding: 5px;
+}
+
+.texto-referencia {
+    margin-bottom: 10px;
+}
+
+.skills {
+    margin-bottom: 10px;
+}
+
+.ul-skills {
+    margin-left: 40px;
+}
+
+.play {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.certifications {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ol-certifications {
+    margin-left: 40px;
+}
+
+.worked {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ul-worked {
+    margin-left: 20px;
+    list-style: none;
+}
+
+.li-worked {
+    margin-bottom: 5px;
+}
+
+.p-worked {
+    margin-bottom: 10px;
+}
+
+.developer {
+    font-style: italic;
+    color: rgb(73 73 73);
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
